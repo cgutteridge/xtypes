@@ -1,0 +1,7 @@
+This is the source code for the http://purl.org/xtypes/ namespace. Please send pull requests if you have improvements.
+
+Don't suggest adding more complex inheritance models unless it specifically solves a problem.
+
+Note PlainText is an indication that there is no markup in the text, so formats with markup should not be subs of it.
+
+
