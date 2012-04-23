@@ -1,6 +1,6 @@
 <?php
 #error_reporting(0);
-require_once( "../ontolib.php" );
+require_once( "ontolib.php" );
 
 $base = 'http://purl.org/xtypes';
 $PATH = "".@$_SERVER["PATH_INFO"];
